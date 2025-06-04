@@ -3,7 +3,7 @@
 ## Integrantes do Grupo
 
 - Daniel Studart Hipólito da Costa - Matrícula: 202202756857
-- Nome Completo Aluno 2 - Matrícula: <SUA_MATRICULA_2>
+- Felipe Ultramar Gonçalves Valadão - 202201383852
 - João Paulo Dopcke de Vasconcellos - Matrícula: 202201038926
 - Nicholas Pedro Gonçalves Victorino - Matrícula: 202203813021
 
