@@ -52,10 +52,10 @@ Esta aplicação web/stand-alone foi desenvolvida como parte da avaliação da d
 
 1.  **Pré-requisitos:** Um navegador web moderno (Google Chrome, Firefox, Edge, etc.).
 2.  **Como Executar:**
-    a. Clone este repositório Git ou baixe os arquivos (`index.html`, `style.css`, `script.js`).
-    b. Abra o arquivo `index.html` diretamente no seu navegador web.
+   - a. Clone este repositório Git ou baixe os arquivos (`index.html`, `style.css`, `script.js`).
+   - b. Abra o arquivo `index.html` diretamente no seu navegador web.
 3.  **Utilizando a Aplicação:**
-    a. No campo de texto "Digite o grafo como lista de adjacência...", insira o grafo desejado. Por exemplo, para o primeiro grafo de teste:
+   - a. No campo de texto "Digite o grafo como lista de adjacência...", insira o grafo desejado. Por exemplo, para o primeiro grafo de teste:
        ```
        A B E
        B A C E
