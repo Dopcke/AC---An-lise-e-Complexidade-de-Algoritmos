@@ -11,8 +11,7 @@
 
 - **Curso:** ENGENHARIA DA COMPUTAÇÃO
 - **Disciplina:** Análise e Complexidade de Algoritmos
-- **Professor:** Cassius Cesar Figueiredo Pereira de Medeiros
-
+- **Professor:** Cassius Figueiredo 
 ## Sobre a Aplicação
 
 Esta aplicação web/stand-alone foi desenvolvida como parte da avaliação da disciplina de Análise e Complexidade de Algoritmos. Ela permite ao usuário inserir um grafo por meio de uma lista de adjacência, visualizá-lo como uma matriz de adjacência e executar os algoritmos de busca em largura (BFS) e busca em profundidade (DFS) sobre ele.
