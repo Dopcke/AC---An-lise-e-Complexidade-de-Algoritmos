@@ -80,7 +80,7 @@ Esta aplicação web/stand-alone foi desenvolvida como parte da avaliação da d
        H G
       
        ```
-    b. Clique em "Executar DFS" ou "Executar BFS".
-    c. Você será solicitado a inserir o nó inicial para a busca (ex: "A").
-    d. A matriz de adjacência do grafo inserido será exibida, seguida pelo resultado do algoritmo escolhido.
-    e. Para limpar a tela e inserir um novo grafo, clique em "Finalizar Aplicação".
+   - b. Clique em "Executar DFS" ou "Executar BFS".
+   - c. Você será solicitado a inserir o nó inicial para a busca (ex: "A").
+   - d. A matriz de adjacência do grafo inserido será exibida, seguida pelo resultado do algoritmo escolhido.
+   - e. Para limpar a tela e inserir um novo grafo, clique em "Finalizar Aplicação".
