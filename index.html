@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aplicação de Grafos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Aplicação de Grafos</h1>
+
+    <div class="container">
+        <div class="input-section">
+            <h2>Entrada do Grafo</h2>
+            <form id="grafo-form">
+                <textarea id="grafo-input" placeholder="Digite o grafo como lista de adjacência (Ex: A B C)..." rows="6"></textarea>
+                <div class="buttons-container">
+                    <button type="button" onclick="executarDFS()">Executar DFS</button>
+                    <button type="button" onclick="executarBFS()">Executar BFS</button>
+                </div>
+            </form>
+        </div>
+
+        <div id="grafo-visualizacao">
+            <h2>Representação do Grafo (Matriz de Adjacência):</h2>
+            <pre id="matriz-adj">Nenhum grafo inserido.</pre>
+        </div>
+
+        <div id="resultado-container">
+            <h2>Resultados</h2>
+            <pre id="resultado"></pre>
+        </div>
+
+        <button class="finalizar-btn" onclick="finalizarAplicacao()">Finalizar Aplicação / Limpar Tudo</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
