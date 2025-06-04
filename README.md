@@ -66,7 +66,6 @@ Esta aplicação web/stand-alone foi desenvolvida como parte da avaliação da d
        G D H
        H D G
        I F
-
        ```
        Para o segundo grafo de teste:
        ```
@@ -78,7 +77,6 @@ Esta aplicação web/stand-alone foi desenvolvida como parte da avaliação da d
        F E G 
        G F
        H G
-      
        ```
    - b. Clique em "Executar DFS" ou "Executar BFS".
    - c. Você será solicitado a inserir o nó inicial para a busca (ex: "A").
