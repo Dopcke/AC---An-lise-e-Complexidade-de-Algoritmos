@@ -54,6 +54,7 @@ Esta aplicação web/stand-alone foi desenvolvida como parte da avaliação da d
 2.  **Como Executar:**
    - a. Clone este repositório Git ou baixe os arquivos (`index.html`, `style.css`, `script.js`).
    - b. Abra o arquivo `index.html` diretamente no seu navegador web.
+   - c. Ou então acesse esse link para ser direcionado diretamente para o WebApp: https://dopcke.github.io/AC-Analise-e-Complexidade-de-Algoritmos/
 3.  **Utilizando a Aplicação:**
    - a. No campo de texto "Digite o grafo como lista de adjacência...", insira o grafo desejado. Por exemplo, para o primeiro grafo de teste:
        ```
